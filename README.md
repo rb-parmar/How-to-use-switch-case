@@ -2,6 +2,8 @@
 
 Learning to use 'switch case'
 
+The `switch case`
+
 ```javascript
 let grade = 'B';
 
