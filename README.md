@@ -13,7 +13,7 @@ First, you are required to declare a `variable` using either `var` or `let` such
 Then use the `switch case` and enter the `variable name` (expression) in the parenthesis.
 We use the `break;` statement to control flow of output which would otherwise be infinite times.
 
-### Example:
+#### Example:
 
 ```javascript
 let grade = 'B';
